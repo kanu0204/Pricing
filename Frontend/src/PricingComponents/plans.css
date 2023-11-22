@@ -1,0 +1,42 @@
+.main {
+    display: flex;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    
+}
+.detail__box1, 
+.detail__box2,
+.detail__box3{
+    display: grid;
+    grid-template-columns: repeat(1, 100px);
+    column-gap: 10px;
+    padding: 120px; /* Adjusted padding */
+    border: 1px solid black; /* Added border */
+    width: 170px;
+    height: 270px;
+    margin: 70px; 
+    margin-top: 1px;
+    background-color: blueviolet;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+
+.title1,
+.title2,
+.title3
+ {
+    font-size: 12px;
+    padding-top: 1px;
+    padding-left: 1rem;
+    margin-left: 1rem;
+    align-items: center;
+    display: inline;
+
+
+}
+

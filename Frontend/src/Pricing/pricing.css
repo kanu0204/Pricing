@@ -1,0 +1,14 @@
+
+.clickme {
+     cursor: pointer;
+     border-radius: 10px;
+     opacity: 100px;
+     align-self: center;
+     margin-top: 200px;
+     margin-bottom: 200px;
+     margin-left: 400px;
+     margin-right: 200px;
+     background-color: pink;
+     font-size: 100px;
+     box-sizing: initial;
+}
